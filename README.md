@@ -14,7 +14,8 @@ agustin@argüello ━━━━━━━━━━━━━━━━━━━━�
 ⦒ OS: ......................................................................................................... Linux  
 ⦒ IDE: .......................................................................... IDEA, VSCode, NeoVim  
 
-⦒ Languages.Programming: ................. Java, C, SQL, Rust, Javascript, Python  
+⦒ Languages.Programming: .......................... Java, C, Rust, Javascript, Python  
+⦒ Languages.Scripting: ............................................................. SQL, Bash, Lua  
 ⦒ Languages.Computer: .......................................... HTML, CSS, JSON, KaTex  
 ⦒ Languages.Real: .................................................................. English, Spanish 
 
