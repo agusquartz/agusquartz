@@ -1,27 +1,45 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
-</div>
-  
-Welcome to my GitHub profile. I am a developer dedicated to maintaining high standards and innovation in my work.  
-My projects focus on developing `robust software solutions` for complex challenges.  
-I value collaboration and continuous improvement, ensuring that each project is approached with care and precision.
-  
-  <br>
-  <br>
-  <br>
-  
-agustin@argüello ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-⦒ OS: ......................................................................................................... Debian  
-⦒ IDE: .......................................................................... IDEA, VSCode, NeoVim  
+# Agustin
 
-⦒ Languages.Programming: .......................... Java, C, Rust, Javascript, Python  
-⦒ Languages.Scripting: ............................................................. SQL, Bash, Lua  
-⦒ Languages.Computer: .......................................... HTML, CSS, JSON, KaTex  
-⦒ Languages.Real: .................................................................. English, Spanish 
+Software developer working on web applications, backend services, cloud infrastructure, automation and embedded systems.
 
-━ Contact ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-⦒ Email.UNI: ......................................................... agustinarguello@fiuni.edu.py
+Most of my current work is around business software. I work with Next.js, Rust and PostgreSQL, and I also develop smaller tools and services in Python and Bash.
 
+Some of the software I work on is already used in production, including an ERP and a document and payment receipt management system. I also handle their deployment and maintenance.
 
-Academic Admission Support Portal
-http://shorthaired-nyala-74c.notion.site
+## Technologies
+
+**Frontend**
+
+Next.js, React, JavaScript, HTML, CSS
+
+**Backend**
+
+Rust, Java, Python, PostgreSQL
+
+**Systems and scripting**
+
+C, Rust, Python, Bash, Lua, SQL
+
+**Other**
+
+REST APIs, authentication, document processing, cloud infrastructure, microcontrollers
+
+## Projects
+
+Most of my professional projects are private, but some of the smaller tools, experiments and libraries I work on are available here.
+
+Some areas I've worked on include:
+
+* Backend services and APIs
+* Database and PostgreSQL tooling
+* Document and image processing
+* Automation scripts
+* Electronic invoicing
+* Microcontroller projects
+* Developer tools and prototypes
+
+## Currently
+
+Working on business software, backend services and embedded projects, while keeping a few experiments and smaller projects here on GitHub.
+
+[Email](mailto:agusquartz@gmail.com)
